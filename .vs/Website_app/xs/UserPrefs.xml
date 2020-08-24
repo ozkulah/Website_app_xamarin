@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{26F70C16-6EFE-4D27-BCFB-FDAA9BC1E06B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Website__app.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Website_app.Android/MainActivity.cs">
+    <Files>
+      <File FileName="Website_app.Android/MainActivity.cs" Line="10" Column="25" />
+      <File FileName="Website_app/MainPage.xaml" Line="6" Column="15" />
+      <File FileName="Website_app/MainPage.xaml.cs" Line="15" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Website_app" expanded="True">
+            <Node name="Website_app" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Website_app.Android" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Website__app.Android PreferredExecutionTarget="Android.Nexus_6_API_29" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

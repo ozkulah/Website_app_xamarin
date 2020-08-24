@@ -1,0 +1,14 @@
+/Users/traveller/Projects/Website_app/Website_app/bin/Debug/netstandard2.0/Website_app.deps.json
+/Users/traveller/Projects/Website_app/Website_app/bin/Debug/netstandard2.0/Website_app.dll
+/Users/traveller/Projects/Website_app/Website_app/bin/Debug/netstandard2.0/ref/Website_app.dll
+/Users/traveller/Projects/Website_app/Website_app/bin/Debug/netstandard2.0/Website_app.pdb
+/Users/traveller/Projects/Website_app/Website_app/obj/Debug/netstandard2.0/Website_app.csprojAssemblyReference.cache
+/Users/traveller/Projects/Website_app/Website_app/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/traveller/Projects/Website_app/Website_app/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/traveller/Projects/Website_app/Website_app/obj/Debug/netstandard2.0/Website_app.AssemblyInfoInputs.cache
+/Users/traveller/Projects/Website_app/Website_app/obj/Debug/netstandard2.0/Website_app.AssemblyInfo.cs
+/Users/traveller/Projects/Website_app/Website_app/obj/Debug/netstandard2.0/Website_app.csproj.CoreCompileInputs.cache
+/Users/traveller/Projects/Website_app/Website_app/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/traveller/Projects/Website_app/Website_app/obj/Debug/netstandard2.0/Website_app.dll
+/Users/traveller/Projects/Website_app/Website_app/obj/Debug/netstandard2.0/ref/Website_app.dll
+/Users/traveller/Projects/Website_app/Website_app/obj/Debug/netstandard2.0/Website_app.pdb
